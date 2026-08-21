@@ -11,7 +11,6 @@
 
 const SUPABASE_URL =
     "https://ncfgkefcxfrvzceuwroe.supabase.co";
-
 const SUPABASE_KEY =
     "sb_publishable_Ju29d9XQXQedFqJxcgzLpQ_oKYRaL2x";
 
