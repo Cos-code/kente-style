@@ -389,7 +389,7 @@ async function loadProductsFromSupabase() {
             data,
             error
         } = await supabaseClient
-            .from("Products")
+            .from("products")
             .select("*")
             .order(
                 "id",
